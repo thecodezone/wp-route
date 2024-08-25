@@ -1,4 +1,6 @@
-# Route
+# WP Route
+
+A fork of [League Route](http://route.thephpleague.com) that bases routes off WordPress rewrites instead of server variables.
 
 [![Author](https://img.shields.io/badge/author-@philipobenito-blue.svg?style=flat-square)](https://twitter.com/philipobenito)
 [![Latest Version](https://img.shields.io/github/release/thephpleague/route.svg?style=flat-square)](https://github.com/thephpleague/route/releases)
